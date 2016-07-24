@@ -4,7 +4,7 @@ This file contains the changelog of the Parrot Security distribution
 
 
 
-## From 3.0 to 3.1
+## From 3.0 to 3.1 (26/07/2016)
 * many tools updates
 * switch from mysql to mariadb
 * include php7 support
