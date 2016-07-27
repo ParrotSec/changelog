@@ -26,3 +26,4 @@ This file contains the changelog of the Parrot Security distribution
 * upgrade to anonsurf 2.1
 * include torbrowser launcher
 * fix noscript plugin and firefox launchers
+* Conky removed (waiting to fix the theme)
