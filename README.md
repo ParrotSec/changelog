@@ -6,6 +6,7 @@ This file contains the changelog of the Parrot Security distribution
 * fix and improve anonsurf
 * add car hacking tools and automotive utilities
 * include custom-compiled MATE 1.16 desktop
+* fix GTK/MATE compatibility issues
 * include Linux 4.7
 * include major security updates
 * remove libreoffice and kdevelop
@@ -13,9 +14,11 @@ This file contains the changelog of the Parrot Security distribution
 * upgrade (and fix) many security tools
 * start including packages from debian pkg-security
 * fix mate-terminal update-alternatives priority
+* fix penmode 2 start screen
 * fix menuexec behavior
 * include back traceroute, whois and other missing utilities
-* fix penmode 2 start screen
+* add sbin to PATH env variable
+* start conversion from Parrot Libre to Iris Project
 
 
 
