@@ -2,6 +2,17 @@
 
 This file contains the changelog of the Parrot Security distribution
 
+## From 3.1 to 3.2 (15/07/2016)
+* fix and improve anonsurf
+* add car hacking tools and automotive utilities
+* include custom-compiled MATE 1.16 desktop
+* include Linux 4.7
+* include major security updates
+* remove libreoffice and kdevelop
+* import full kde plasma support for parrot studio
+* 
+
+
 
 
 ## From 3.0 to 3.1 (26/07/2016)
