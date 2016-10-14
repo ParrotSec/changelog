@@ -12,6 +12,12 @@ This file contains the changelog of the Parrot Security distribution
 * import full kde plasma support for parrot studio
 * upgrade (and fix) many security tools
 * start including packages from debian pkg-security
+* fix mate-terminal update-alternatives priority
+* fix menuexec behavior
+* include back traceroute, whois and other missing utilities
+* fix penmode 2 start screen
+
+
 
 
 
