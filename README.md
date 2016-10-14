@@ -10,7 +10,8 @@ This file contains the changelog of the Parrot Security distribution
 * include major security updates
 * remove libreoffice and kdevelop
 * import full kde plasma support for parrot studio
-* 
+* upgrade (and fix) many security tools
+* start including packages from debian pkg-security
 
 
 
