@@ -1,6 +1,16 @@
-# Parrot Security changelog
+# Parrot Release changelog
 
 This file contains the changelog of the Parrot Security distribution
+
+## From 3.2 to 3.3 (25/12/2016)
+* include linux 4.8 kernel
+* fix touchpad/multitouch support
+* update anonsurf
+* fix minor MATE bugs
+* include GCC 6.2
+* update metasploit-framework 4.13
+* switch to php 7
+* upgrade most of the tools to their latest version
 
 ## From 3.1 to 3.2 (15/07/2016)
 * fix and improve anonsurf
