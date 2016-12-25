@@ -14,7 +14,7 @@ This file contains the changelog of the Parrot Security distribution
 * upgrade most of the tools to their latest version
 
 
-## From 3.1 to 3.2 (15/07/2016)
+## From 3.1 to 3.2 (15/10/2016)
 * fix and improve anonsurf
 * add car hacking tools and automotive utilities
 * include custom-compiled MATE 1.16 desktop
