@@ -2,6 +2,23 @@
 
 This file contains the changelog of the Parrot Security distribution
 
+
+## From 3.3 to 3.4 (release date to be decided)
+* Update the linux kernel from 4.8.11 to 4.8.15
+* Fix i2p package and reinclude anonsurf
+* Update geany IDE
+* Include the freenet installer as a preview
+* Include GNUNet
+* Update zulucrypt
+* Add new mirror servers to netboot images
+* Include quickhash forensics tool
+* Fix beef-xss config file
+* Import some updates from Debian
+* Drop parrot cloud live iso support
+  + Parrot cloud still exists through our netboot images,
+  + our debian installation script and our VPS service
+
+
 ## From 3.2 to 3.3 (25/12/2016)
 * include linux 4.8 kernel
 * fix touchpad/multitouch support
