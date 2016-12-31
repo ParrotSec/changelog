@@ -11,7 +11,6 @@ This file contains the changelog of the Parrot Security distribution
 * Include GNUNet
 * Update zulucrypt
 * Add new mirror servers to netboot images
-* Include quickhash forensics tool
 * Fix beef-xss config file
 * Import some updates from Debian
 * Drop parrot cloud live iso support
