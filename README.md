@@ -3,7 +3,7 @@
 This file contains the changelog of the Parrot Security distribution
 
 
-## From 3.3 to 3.4 (release date to be decided)
+## From 3.3 to 3.4 (01/01/2017)
 * Update the linux kernel from 4.8.11 to 4.8.15
 * Fix i2p package and reinclude anonsurf
 * Update geany IDE
