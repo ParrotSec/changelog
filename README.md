@@ -2,6 +2,9 @@
 
 This file contains the changelog of the Parrot Security distribution
 
+## From 3.4 to 3.4.1 (03/01/2017)
+* Fix kernel modules for the installer
+* Upgrade the installer
 
 ## From 3.3 to 3.4 (01/01/2017)
 * Update the linux kernel from 4.8.11 to 4.8.15
