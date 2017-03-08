@@ -1,6 +1,30 @@
 # Parrot Release changelog
 
-This file contains the changelog of the Parrot Security distribution
+This file contains the changelog of the Parrot Security distribution.
+
+This changelog contains only a summary of the changes we consider being most relevant in each release
+
+
+## From 3.4.1 to 3.5 (08/03/2017)
+* Include linux 4.9.13
+* Include virtualbox and vmware guest support
+* Include virt-manager (KVM/LXC virtual machine manager)
+* Add cryptkeeper (EncFS system tray)
+* Add sirikali (GUI front end to cryfs,gocryptfs,securefs and encfs)
+* Re-include ZuluMount (zulucrypt mount utility)
+* Include onboard virtual keyboard
+* Include CUPS and printing support
+* Include experimental cinnamon support
+* Drop airmode (needs maintainance and will be included again soon)
+* Drop penmode (deprecated and no longer maintained)
+* Drop gtkdialog (discontinued)
+* Drop all the packges depending on gtkdialog
+* Import new upstream releases from debian stretch and sid
+* Upgrade many security tools
+* Re-include many tools not previously included in parrot full
+* Replace firefox-esr 45 with firefox 51
+* Improve and update Firefox security plugins
+* Clean and improve firefox default configs
 
 ## From 3.4 to 3.4.1 (03/01/2017)
 * Fix kernel modules for the installer
