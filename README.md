@@ -5,6 +5,24 @@ This file contains the changelog of the Parrot Security distribution.
 This changelog contains only a summary of the changes we consider being most relevant in each release
 
 
+
+## From 3.5 to 3.6 (18/05/2017)
+* Inlcude linux 4.9.25
+* Improve global mirror redirector
+* Include an update reminder
+* Upgrade to anonsurf 2.5
+* Upgrade drivers pack
+* Apply minor fixes to some startup daemons
+* Make the system less memory hungry
+* Upgrade many security tools
+* Import new upstream releases from debian stretch and sid
+* Apply minor fixes to parrot-interface
+* Improve interface metapackages
+* Fix some parrot-menu launchers
+* Add Parrot AIR
+* Improve ARMel and ARM64 support
+
+
 ## From 3.4.1 to 3.5 (08/03/2017)
 * Include linux 4.9.13
 * Include virtualbox and vmware guest support
