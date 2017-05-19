@@ -7,7 +7,7 @@ This changelog contains only a summary of the changes we consider being most rel
 
 
 ## From 3.5 to 3.6 (18/05/2017)
-* Inlcude linux 4.9.25
+* Include linux 4.9.25
 * Improve global mirror redirector
 * Include an update reminder
 * Upgrade to anonsurf 2.5
